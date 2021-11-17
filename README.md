@@ -3,10 +3,12 @@
 ###**Overview of Analysis**
   
   ###*Desciption of the Data*
+  
   The analysis of the school district involved two csv files.  One of the complete student data and the other with the school information. 15 high schools with grades 9th through 12th grade were included in the school csv file.  The schools fell into two types, charter or district.  The data also included the size of the school and the total budget.The areas assessed were math scores,reading scores, and the percentage of overall passing.  Passing grades were defined as greater than or equal to 70. The information included for the students can be seen below.
   <img width="1195" alt="Student's Dataframe" src="https://user-images.githubusercontent.com/85581208/142255160-ee7f0d41-3bef-4215-92c7-306c31f0f1bb.png">
   
   ###*The Analysis*
+  
   The original analyis started with looking at what the data contained and then searching for any missing values.  No missing values were located.
 <img width="786" alt="Search for missing values" src="https://user-images.githubusercontent.com/85581208/142254345-aaddfbc4-037c-4f51-a1c4-d8f2d366fd5c.png">
 Then to get the data into one dataframe. The two were merged together with the code show below.
@@ -41,6 +43,7 @@ The image below shows the results of the analysis before removing the 9th grade 
  
  
  Here are the differences observed after the Thomas High School 9th grade students reading and math scores were chanded to NaN:
+  
   -School District Average Math Score - dropped from 79 to 78.9. 
   
   -School District Average Reading Score - no change.  It held at 81.9.
