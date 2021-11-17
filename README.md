@@ -75,7 +75,7 @@ The image below shows the results of the analysis before removing the 9th grade 
   
   -The calculations when broken down by school size did not change when compared after formatting to 0.1.
   
-  - When breaking schools into category by type, charter or district, there is no change in the numbers either.
+  -When breaking schools into category by type, charter or district, there is no change in the numbers either.
 
 ###**In Summary**
 
