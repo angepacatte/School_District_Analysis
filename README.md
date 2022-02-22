@@ -2,7 +2,7 @@
 
 ### **Overview of Analysis**
   
-  ###*Desciption of the Data*
+  ### *Desciption of the Data*
   
   The analysis of the school district involved two csv files.  One of the complete student data and the other with the school information. 15 high schools with grades 9th through 12th grade were included in the school csv file.  The schools fell into two types, charter or district.  The data also included the size of the school and the total budget.The areas assessed were math scores,reading scores, and the percentage of overall passing.  Passing grades were defined as greater than or equal to 70. The information included for the students can be seen below.
   <img width="1195" alt="Student's Dataframe" src="https://user-images.githubusercontent.com/85581208/142255160-ee7f0d41-3bef-4215-92c7-306c31f0f1bb.png">
