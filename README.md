@@ -7,7 +7,7 @@
   The analysis of the school district involved two csv files.  One of the complete student data and the other with the school information. 15 high schools with grades 9th through 12th grade were included in the school csv file.  The schools fell into two types, charter or district.  The data also included the size of the school and the total budget.The areas assessed were math scores,reading scores, and the percentage of overall passing.  Passing grades were defined as greater than or equal to 70. The information included for the students can be seen below.
   <img width="1195" alt="Student's Dataframe" src="https://user-images.githubusercontent.com/85581208/142255160-ee7f0d41-3bef-4215-92c7-306c31f0f1bb.png">
   
-  ###*The Analysis*
+  ### *The Analysis*
   
   The original analysis started with looking at what the data contained and then searching for any missing values.  No missing values were located.
 
@@ -30,7 +30,7 @@ The data was then analyzed by calculating the average math scores and average re
 
 The analysis was redone with those students scores removed.  Let's look at the results.
 
-###*Results*
+### *Results*
 
  The two images below show Thomas High School's numbers.  The first image is with the 9th grade math and reading scores.  The second is when cheating was found and they were removed.
 
@@ -77,7 +77,7 @@ The image below shows the results of the analysis before removing the 9th grade 
   
   -When breaking schools into category by type, charter or district, there is no change in the numbers either.
 
-###**In Summary**
+### **In Summary**
 
   After going through all of the results and looking at the comparisons not too much has changed.  When replacing the Thomas High School 9th grade math and reading school with NaN, the biggest difference was in the school district % passing reading.  It decreased by 0.3%. The next biggest drop was in the school district % passing math.  It dropped by 0.2%.  The two other scores affected, school district average math score and the school district % overall passing, both dropped by 0.1.  For it to be measurable with such a large amount of students, shows the cheating was affecting the overall grades and percentages.  Was it really changing the district's overall picture of how the majority of students were performing.  It does not appear to be.
   
